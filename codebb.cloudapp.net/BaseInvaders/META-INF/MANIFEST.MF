@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: groovy-all-2.4.9.jar
+Main-Class: baseinvaders.BaseInvaders
+
